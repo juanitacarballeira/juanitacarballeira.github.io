@@ -5,3 +5,16 @@ title: "About me"
 ## Header
 
 Say more about you here.
+
+## Another section
+
+So I can say something else about me here. For example, you can follow me on [Twitter.](www.twitter.com/tacourtne)
+
+## Yet another section
+
+With more details so I can share
+
+```{r, out.width="50%", echo=FALSE}
+knitr::include_graphics("GOPR1166.JPG")
+```
+

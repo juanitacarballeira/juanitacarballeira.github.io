@@ -1,5 +1,15 @@
 ---
-title: "Welcome to my website!"
+title: "RMarkdown Website Tutorial"
 ---
 
-You're up and running!
+This is a tutorial for creating a website for free using RMarkdown and Github.
+
+## This is a header for my webpage
+
+```{r, out.width="100%", echo=FALSE}
+knitr::include_graphics("GOPR1166.JPG")
+```
+
+This a website template for creating personal webpages for academic sciences to publicly share our code and science.
+
+[Read more about me...](about.html)

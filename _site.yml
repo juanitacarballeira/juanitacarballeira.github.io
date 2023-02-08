@@ -1,7 +1,7 @@
-name: "YOURNAME"                                # CHANGE HERE 
+name: "RMarkdown Website Tutorial"                                # CHANGE HERE 
 output_dir: "."
 navbar:
-  title: "YOURNAME"                             # CHANGE HERE 
+  title: "RMarkdown Website Tutorial"                             # CHANGE HERE 
   type: inverse
   left:
     - text: "Home"
@@ -13,16 +13,16 @@ navbar:
     - text: "CV"
       icon: fa-file-pdf-o
       href: cv.html
-    - text: "Blog"
-      icon: fa-rss
-      href: https://YOURGITHUB.github.io/blog/  # CHANGE HERE OR DELETE ALL 3 LINES 
+    - text: "Contact"
+      icon: fa-file-pdf-o
+      href: contact.html
   right:
     - text: "Contact me"
       icon: fa-envelope-o
-      href: mailto:YOUREMAIL                    # CHANGE HERE 
+      href: mailto:travis.courtney@upr.edu                  # CHANGE HERE 
     - text: "GitHub"
       icon: fa-github
-      href: https://github.com/YOURGITHUB       # CHANGE HERE 
+      href: https://github.com/traviscourtney       # CHANGE HERE 
 output:
   html_document:
     theme: cosmo

@@ -2,6 +2,6 @@
 title: "About me"
 ---
 
-## Header
+## Please contact me via any of the following for questions about making a website
 
-Say more about you here.
+travis.courtney@upr.edu

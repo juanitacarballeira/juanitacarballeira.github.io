@@ -1,24 +1,30 @@
 ---
 title: "About me: Education and Work Experience"
+editor_options: 
+  markdown: 
+    wrap: 72
 ---
 
 ## Education
-UNIVERSITY OF PUERTO RICO, MAYAGÜEZ CAMPUS
-(Mayagüez, PR) AUGUST 2022- PRESENT
-Faculty of Natural Sciences, Marine Science Master’s degree
 
+UNIVERSITY OF PUERTO RICO, MAYAGÜEZ CAMPUS (Mayagüez, PR) AUGUST 2022-
+PRESENT Faculty of Natural Sciences, Marine Science Master's degree
 
-UNIVERSITY OF PUERTO RICO, RIO PIEDRAS CAMPUS
-(San Juan, PR) AUGUST 2016- MAY 2022
-Faculty of Natural Sciences, Chemistry Bachelor’s degree
+UNIVERSITY OF PUERTO RICO, RIO PIEDRAS CAMPUS (San Juan, PR) AUGUST
+2016- MAY 2022 Faculty of Natural Sciences, Chemistry Bachelor's degree
 GPA: 3.748
 
+## Current work
 
-##Current work
-I am currently a part of the DNA Environment's water quality monitoring project. My contribution to the project consists of assisting with monitoring of the company's seawater outflow.
+I am currently a part of the DNA Environment's water quality monitoring
+project. My contribution to the project consists of assisting with
+monitoring of the company's seawater outflow.
 
 ## Research Project
-My master's thesis consists of investigating seawater chemistry vertical variability throughout the island of Puerto Rico.
 
+My master's thesis consists of investigating seawater chemistry vertical
+variability throughout the island of Puerto Rico.
 
-
+```{r, out.width="50%", echo=FALSE}
+knitr::include_graphics("ocean_JCCM.jpeg")
+```

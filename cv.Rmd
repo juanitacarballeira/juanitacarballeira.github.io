@@ -1,8 +1,8 @@
 ---
-title: "Resume"
+title: "CV"
 ---
 
-<a href="Resume_2022_Juanita Carballeira Martinez (1).pdf#" class="download" title="Download Resume as PDF">Download Resume</a>
+<a href="Resume_2022_Juanita Carballeira Martinez (1).pdf#" class="download" title="Download Resume as PDF">Download CV</a>
 
 ```{r, out.width="60%", echo=FALSE}
 knitr::include_graphics("education_JCCM.jpeg")

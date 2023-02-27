@@ -1,15 +1,15 @@
 ---
-title: "RMarkdown Website Tutorial"
+title: "Juanita Carballeira Martínez"
 ---
 
-This is a tutorial for creating a website for free using RMarkdown and Github.
+Chemical Oceanography M.S. candidate at the University of Puerto Rico interested in education and scientific research.
 
-## This is a header for my webpage
+## About myself
+
+Throughout my professional and academic career, I have been exposed to research in various fields of Environmental Science. I am currently pursuing a master's degree in Chemical Oceanography at the University of Puerto Rico. My professional goal is to innovate in the field of Marine Science,in order to share scientific knowledge through outreach and education initiatives.
 
 ```{r, out.width="100%", echo=FALSE}
-knitr::include_graphics("GOPR1166.JPG")
+knitr::include_graphics("sunset_beachJCCM.jpeg")
 ```
-
-This a website template for creating personal webpages for academic sciences to publicly share our code and science.
 
 [Read more about me...](about.html)

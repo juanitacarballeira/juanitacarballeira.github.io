@@ -1,7 +1,13 @@
 ---
-title: "About me"
+title: "Feel free to reach out!"
 ---
 
-## Header
+## Contact information
 
-Say something about you here.
+If you have any more questions about my current research project, or are interested in learning more about my past experiences feel free to reach out.
+
+E-mail:
+juanita.carballeira@upr.edu
+
+Linked-in website:
+https://www.linkedin.com/in/juanita-carballeira-mart%C3%ADnez-03569b166/

@@ -12,7 +12,7 @@ navbar:
       href: about.html
     - text: "Contact"
       icon: fa-file-pdf-o
-      href: Contact.html
+      href: ContactJCCM.html
   right:
     - text: "Contact me"
       icon: fa-envelope-o

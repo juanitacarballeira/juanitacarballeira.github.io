@@ -10,12 +10,9 @@ navbar:
     - text: "About"
       icon: fa-user 
       href: about.html
-    - text: "CV"
-      icon: fa-file-pdf-o
-      href: cv.html
     - text: "Contact"
       icon: fa-file-pdf-o
-      href: contact.html
+      href: Contact.html
   right:
     - text: "Contact me"
       icon: fa-envelope-o

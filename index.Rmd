@@ -4,12 +4,16 @@ title: "Juanita Carballeira Martínez"
 
 Chemical Oceanography M.S. candidate at the University of Puerto Rico interested in education and scientific research.
 
+```{r, out.width="50%", echo=FALSE}
+knitr::include_graphics("water_JCCM.jpeg")
+```
+
 ## About myself
 
-Throughout my professional and academic career, I have been exposed to research in various fields of Environmental Science. I am currently pursuing a master's degree in Chemical Oceanography at the University of Puerto Rico. My professional goal is to innovate in the field of Marine Science,in order to share scientific knowledge through outreach and education initiatives.
+Throughout my professional and academic career, I have been exposed to research in various fields of Environmental Science. I am currently pursuing a master's degree in Chemical Oceanography at the University of Puerto Rico. My professional goal is to innovate in the field of Marine Science, in order to share scientific knowledge through outreach and education initiatives.
 
-```{r, out.width="100%", echo=FALSE}
-knitr::include_graphics("sunset_beachJCCM.jpeg")
+```{r, out.width="50%", echo=FALSE}
+knitr::include_graphics("education_JCCM.jpeg")
 ```
 
 [Read more about me...](about.html)

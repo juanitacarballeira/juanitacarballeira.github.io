@@ -19,14 +19,17 @@ Faculty of Natural Sciences, Chemistry Bachelor's degree GPA: 3.748
 
 ## Current work
 
-I am currently a part of the DNA Environment's water quality monitoring
+I am currently part of the DNA Environment's water quality monitoring
 project. My contribution to the project consists of assisting with
 monitoring of the company's seawater outflow.
 
-## Research Project
+## Research project
 
 My master's thesis consists of investigating seawater chemistry vertical
-variability throughout the island of Puerto Rico.
+variability throughout the island of Puerto Rico. I am part of the
+Biochemistry and Ecology Research Group (BERG), located on Isla
+Magueyes, La Parguera. Learn more about our team's current projects and
+potential opportunities [here](https://theberglab.com/).
 
 ```{r, out.width="50%", echo=FALSE}
 knitr::include_graphics("ocean_JCCM.jpeg")
